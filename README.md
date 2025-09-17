@@ -1,11 +1,4 @@
-### Hi there, I'm Om Nesti👋
 
-- 🙋‍♂️ I'm an ambitious student pursuing Computer Science for my passion of computers. 
-- 🧐 I'm always eager to learn about new technologies and languages.
-- 💻 In my first year, I've gained experience in Python and C++. Then expanded my knowledge on Data Structures and Algorithms with C++.
-- 🎮 When I'm not coding, you'll find me playing video games.
-
-  
 <!--
 **onesti827/onesti827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
